@@ -1,0 +1,26 @@
+{
+    "details":{
+        "name":"APSSDC",
+        "age":"5 years",
+        "course":["Web","AWS","Android","Python"]
+
+    },
+    "TrainersDetails":[
+        {
+            "name":"Surya",
+            "phone":"12345678",
+            "mail":"surya@gmail.com"
+        },
+        {
+            "name":"ramya",
+            "phone":"98367354678",
+            "mail":"ramya@gmail.com"
+        },
+        {
+            "name":"Gayatri",
+            "phone":"9832111345",
+            "mail":"gayatri@gmail.com"
+        }
+    ]
+
+}
